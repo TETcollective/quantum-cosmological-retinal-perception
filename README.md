@@ -8,7 +8,8 @@
 **Autore:** Simon Soliman  
 **Affiliazione:** tetcollective.org  
 **Sito:** https://tetcollective.org  
-**Data di pubblicazione:** Gennaio 2026  
+**Data di pubblicazione:** Gennaio 2026 
+**Doi: https://doi.org/10.5281/zenodo.18131517
 
 ## Sommario
 
